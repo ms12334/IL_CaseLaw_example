@@ -1,2 +1,2 @@
 # IL_CaseLaw_example
-Converting dataset into tab-limited csv format
+Converting dataset into tab-delimited csv format
